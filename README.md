@@ -1,7 +1,7 @@
 ## TAREA CREADA PARA EL EQUIPO ##
 * CLASSROOM ENTREGA MICROBIT
 
-[ENLACE A CLASSROOM ENTREGA MICROBIT] (https://classroom.github.com/classrooms/149099772-ull-mfp-aet-2324-alu0100762341/assignments/microbit-daniel-afonso-nuez-alu0100762341)
+[ENLACE A CLASSROOM ENTREGA MICROBIT](https://classroom.github.com/classrooms/149099772-ull-mfp-aet-2324-alu0100762341/assignments/microbit-daniel-afonso-nuez-alu0100762341)
 
 *ENLACE A MI ORGANIACIÓN
 
