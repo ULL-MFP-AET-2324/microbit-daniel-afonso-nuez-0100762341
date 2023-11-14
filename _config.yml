@@ -2,7 +2,7 @@ makecode:
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 asignatura: Aprendizaje y Enseñanza de la Tecnología
 lista_de_la_compra:
   - papas
