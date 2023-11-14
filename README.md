@@ -1,4 +1,4 @@
-{{site.asignatura}}
+{{ site.asignatura }}
 
 
 
